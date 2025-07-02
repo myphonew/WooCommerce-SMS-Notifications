@@ -15,7 +15,7 @@ Use your Android phone as an SMS/MMS gateway for WooCommerce! Send SMS order not
 
 == Description ==
 
-**WooCommerce SMS Notifications** lets you use your Android phone as an SMS gateway via the [xfoo.net](https://xfoo.net) API.
+**WooCommerce SMS Notifications** lets you use your Android phone as an SMS gateway via the [cc.xfoo.net](https://cc.xfoo.net) API.
 
 📦 **Features:**
 - Send SMS updates on WooCommerce order status changes.
