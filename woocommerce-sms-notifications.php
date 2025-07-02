@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce SMS Notifications
  * Description: Sends SMS notifications for WooCommerce order status updates using xfoo.net API.
  * Version: 1.0.3
- * Author: Alex Reznik
+ * Author: SpaceMPW
  */
 
 // Prevent direct access.
