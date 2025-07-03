@@ -1,5 +1,5 @@
 # WooCommerce-SMS-Notifications
-Wordpress Plugin For WooCommerce SMS Notifications lets you use your Android phone as an SMS gateway via the [xfoo.net](https://xfoo.net) API.
+Wordpress Plugin For WooCommerce SMS Notifications lets you use your Android phone as an SMS gateway via the [cc.xfoo.net](https://cc.xfoo.net) API.
 
 === WooCommerce SMS Notifications ===
 Contributors: space  
